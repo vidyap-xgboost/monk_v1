@@ -26,8 +26,6 @@ Interns
 
 5) Avishree Khare [Linkedin](https://www.linkedin.com/in/avishreekh/), [Github](https://github.com/avishreekh) 
   - May 2020 - Present
-  
-6) Rohit Verma [Linkedin](https://www.linkedin.com/in/rohit96/), [Github](https://github.com/rohit0906)
 
 
 Tutorial and blog contributors
@@ -52,5 +50,3 @@ Tutorial and blog contributors
 10) Rohit Lal [Linkedin](https://www.linkedin.com/in/rohit-lal/), [Github](https://github.com/take2rohit) 
 
 11) Shubham Gupta [Linkedin](https://www.linkedin.com/in/shubham-gupta-gim/), [Github]() 
-
-12) Vidya P [Linkedin](https://www.linkedin.com/in/vidyapb/), [Github](https://github.com/vidyap-xgboost)
